@@ -201,20 +201,4 @@ h4 {
     top: -10px;
     right: 20px;
   }
-  h3 {
-    color: white;
-    white-space: nowrap;
-  }
-  h4 {
-    color: hsl(0, 0%, 81%);
-    white-space: nowrap;
-  }
-  .dark {
-    color: hsl(217, 19%, 35%);
-    white-space: nowrap;
-  }
-  .light {
-    color: hsl(0, 0%, 81%);
-    white-space: nowrap;
-  }
 }
