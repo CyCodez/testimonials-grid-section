@@ -1,7 +1,7 @@
 html,
 body {
   margin: 0px;
-
+  font-family: "Barlow Semi Condensed", sans-serif;
   padding: 0;
   width: 100%;
   overflow-x: hidden; /* This hides horizontal scroll bars */
